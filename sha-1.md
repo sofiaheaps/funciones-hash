@@ -8,11 +8,11 @@ Calculamos el hash **SHA-1** del archivo y enviamos el resultado al archivo **ha
 
 - `sha1sum ejercicio_crypto.txt > hash2.txt`
 
- <img src="src/sha1.png" alt="sha" width="480" /> <p>
+ <img src="src/sha1send.png" alt="sha" width="410" /> <p>
 
 
 Podemos ver que dentro de **hash2.txt** se encuentra el **hash SHA-1** del contenido de ejercicio_crypto.txt y el archivo **ejercicio_crypto.txt**.
 
 - `cat hash2.txt`
 
- <img src="src/cat2.png" alt="cat" width="480" /> <p>
+ <img src="src/cathash2.png" alt="cat" width="500" /> <p>
