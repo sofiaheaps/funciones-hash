@@ -21,4 +21,4 @@ Podemos ver que dentro de **hash1.txt** se encuentra el **hash md5** del conteni
 
 - `cat hash1.txt`
 
- <img src="src/hash 1.png" alt="hash" width="470" /> <p>
+ <img src="src/hash1.png" alt="hash" width="470" /> <p>
