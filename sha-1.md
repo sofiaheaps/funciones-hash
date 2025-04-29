@@ -6,7 +6,7 @@
 
 Calculamos el hash **SHA-1** del archivo y enviamos el resultado al archivo **hash2.txt**. 
 
-- `sha1sum ejercicio_crypto.txt > hash1.txt`
+- `sha1sum ejercicio_crypto.txt > hash2.txt`
 
  <img src="src/sha1.png" alt="sha" width="480" /> <p>
 
