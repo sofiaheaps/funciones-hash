@@ -7,21 +7,21 @@
 Debemos copiar los hashes de cada archivo y analizarlo con hash-identifier.
 
 **Hash1.txt**
-- `hash-identifier 316207f2eb6deb7155769a2e117d4370`
+- `hash-identifier 3244441dda3489d1fa5cdb1cf72342dd`
 
  <img src="src/identifier1.png" alt="identifier" width="570" />
 
 **Hash2.txt**
-- `hash-identifier 967d7edf084dbd30c107ccc9a03626e6d7135d10`
+- `hash-identifier ddf5b509a5a1677fc214ae2bb1795983a55fd4d`
 
  <img src="src/identifier2.png" alt="identifier" width="570" />
 
 **Hash3.txt**
-- `hash-identifier 8b680ed3244579b4c8c8ba3f893b791868857c0d524123395c2ce967a89269e0`
+- `hash-identifier 9036a529c6880e1095e412a870426e51423abf670a36ae72e4550dd6791c4cca`
 
  <img src="src/identifier3.png" alt="identifier" width="570" />
 
 **Hash4.txt**
-- `hash-identifier 9d04b2629ac108c7d3625aa5acaa47b8068673717ff801b4175813610a2b7bae7a6f83cf806c433e511c54a75c3b37196714c012f0b75efd3409cbe90f46a53f`
+- `hash-identifier 6a7267d9ead4f41d8bf13e4ec2fbf86efd2418409526523d221c3dcc701c236c75370a724afd70d900febd8e2b2ad4042518887`
 
- <img src="src/identifier4.png" alt="identifier" width="570" />
+ <img src="src/identifier4.png" alt="identifier" width="600" />
