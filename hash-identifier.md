@@ -24,4 +24,4 @@ Debemos copiar los hashes de cada archivo y analizarlo con hash-identifier.
 **Hash4.txt**
 - `hash-identifier 6a7267d9ead4f41d8bf13e4ec2fbf86efd2418409526523d221c3dcc701c236c75370a724afd70d900febd8e2b2ad4042518887`
 
- <img src="src/identifier4.png" alt="identifier" width="600" />
+ <img src="src/4.png" alt="identifier" width="600" />
